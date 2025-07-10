@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1703123456789,
+    "template": "Dear {input}, your meeting is scheduled for {today}. Please bring the {input} documents.",
+    "createdAt": "2023-12-21T10:30:56.789Z"
+  },
+  {
+    "id": 1703123456790,
+    "template": "Hello {input}, welcome to our team! Your start date is {today}.",
+    "createdAt": "2023-12-21T10:31:00.123Z"
+  },
+  {
+    "id": 1703123456791,
+    "template": "Meeting reminder: {input} meeting on {today} at {input}.",
+    "createdAt": "2023-12-21T10:31:30.456Z"
+  },
+  {
+    "id": 1703123456792,
+    "template": "Project update for {input}: Status report due on {today}. Please review the {input} section.",
+    "createdAt": "2023-12-21T10:32:15.789Z"
+  },
+  {
+    "id": 1703123456793,
+    "template": "Happy {today}! This is a reminder that your {input} is due today.",
+    "createdAt": "2023-12-21T10:33:00.012Z"
+  }
+] 
