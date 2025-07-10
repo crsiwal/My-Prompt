@@ -13,6 +13,13 @@ A responsive single-page web application for creating and managing prompt templa
 - **📱 Responsive Design**: Works perfectly on mobile and desktop
 - **📤 Import/Export**: Export prompts to JSON and import from JSON files
 - **🎨 Modern UI**: Beautiful interface built with Tailwind CSS
+- **👁️ Show More/Less**: Long prompts are collapsed by default with a "Show more" button for better readability
+
+## 🖼️ Screenshots
+
+Below is a screenshot of the Prompt Template Manager UI, including the new show more/less feature for long prompts:
+
+![Prompt Template Manager Screenshot](screenshot.png)
 
 ## 🚀 Quick Start
 
@@ -79,6 +86,7 @@ DeptoMyPrompt/
 ├── read_prompts.php    # PHP endpoint for reading prompts
 ├── prompts.json        # Server-side data storage (created automatically)
 ├── Requirement.md      # Original requirements document
+├── screenshot.png      # UI screenshot
 └── README.md          # This file
 ```
 
